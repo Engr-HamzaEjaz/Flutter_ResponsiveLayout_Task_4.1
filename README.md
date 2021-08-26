@@ -1,6 +1,4 @@
-# task_04
-
-A new Flutter project.
+# This code illustrate formation of a Responsive App.
 
 ## Getting Started
 
